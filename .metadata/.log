@@ -1,0 +1,71 @@
+!SESSION 2018-09-21 10:06:23.146 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -keyring /Users/chenxijia/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product -data /Users/chenxijia/personal/code/web_20180920 -product org.eclipse.epp.package.jee.product -keyring /Users/chenxijia/.eclipse_keyring
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2018-09-21 10:07:18.811
+!MESSAGE already installed: org.eclipse.jst.server.generic.jonas4
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-09-21 10:28:15.315
+!MESSAGE Removing obsolete files from server...
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-09-21 10:28:15.315
+!MESSAGE Could not delete /Users/chenxijia/personal/codingTools/JAVA/apache-tomcat-9.0.6/work/Catalina/localhost/ticketmaster. May be locked by another process.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-09-21 10:28:41.960
+!MESSAGE Removing obsolete files from server...
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-09-21 10:28:41.960
+!MESSAGE Could not delete /Users/chenxijia/personal/codingTools/JAVA/apache-tomcat-9.0.6/work/Catalina/localhost/ticketmaster. May be locked by another process.
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-09-21 10:28:47.256
+!MESSAGE Removing obsolete files from server...
+!SUBENTRY 1 org.eclipse.wst.server.core 4 0 2018-09-21 10:28:47.256
+!MESSAGE Could not delete /Users/chenxijia/personal/codingTools/JAVA/apache-tomcat-9.0.6/work/Catalina/localhost/ticketmaster. May be locked by another process.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-21 10:45:34.492
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-21 10:45:34.494
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-21 10:45:34.605
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-21 10:45:34.606
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-21 23:14:48.189
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-21 23:14:48.200
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-21 23:22:01.926
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-21 23:22:01.927
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-21 23:23:30.813
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-21 23:23:30.826
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+!SESSION 2018-09-22 00:01:41.244 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_144
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/chenxijia/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/chenxijia/.eclipse_keyring
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-22 00:25:47.135
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-09-22 00:25:47.143
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-09-22 17:45:33.909
+!MESSAGE Server Tomcat v9.0 Server at localhost failed to start.
