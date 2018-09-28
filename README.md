@@ -29,5 +29,3 @@ to implement event search and content-based ticket recommendation
 ## Server
 #### Tomcat server 
 
-
-## SF_Crime_03To18.ipynb
