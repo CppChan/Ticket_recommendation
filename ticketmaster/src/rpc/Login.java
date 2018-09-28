@@ -64,6 +64,7 @@ public class Login extends HttpServlet {
 //    当用户在应用程序的 Web页间跳转时，存储在 Session 对象中的变量不会丢失而是在整个用户会话中一直存在下去。
 //    Session的实现方式和Cookie有一定关系。建立一个连接就生成一个session id，打开几个页面就好几个了，这里就用到了Cookie，
 //    把session id存在Cookie中，每次访问的时候将Session id带过去就可以识别了.
+//    也就是当用户登录了，关了网页，然后再次打开网页的时候，存在在本地cookie中的session id会一并发给服务器，如果session id验证成功，直接就登陆了。
 
 	/**
 	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)

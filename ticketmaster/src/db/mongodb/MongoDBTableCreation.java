@@ -18,6 +18,7 @@ public class MongoDBTableCreation {
 		db.getCollection("items").drop();
 
 		// Step 3: create new collections.
+		// 相当于以user_id作为查询的index，1代表升序, 有了index就可以进行find操作
 		IndexOptions indexOptions = new IndexOptions().unique(true);
 		db.getCollection("users").createIndex(new Document("user_id", 1), indexOptions);
 		db.getCollection("items").createIndex(new Document("item_id", 1), indexOptions);

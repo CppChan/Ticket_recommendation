@@ -58,6 +58,7 @@ public class SearchItem extends HttpServlet {
 		List<Item> items = connenction.searchItems(lat, lon, term);
 		Set<String> favorite = connenction.getFavoriteItemIds(userId);
 		JSONArray array = new JSONArray();
+		//in json, use {} to indicate object, use []to indicate array, can [{xx:[]},{yy:[]}]		
 		try {
 			for (Item item : items) {
 				// Add a thin version of item object

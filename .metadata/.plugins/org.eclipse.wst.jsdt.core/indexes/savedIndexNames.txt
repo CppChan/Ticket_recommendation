@@ -1,8 +1,7 @@
 INDEX VERSION 1.4+/Users/chenxijia/personal/code/web_20180920/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
 844394040.index
 2220028950.index
-1873687276.index
-1770089126.index
-503556118.index
-594753966.index
 1507809225.index
+594753966.index
+503556118.index
+1873687276.index

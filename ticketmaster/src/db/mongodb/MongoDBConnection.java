@@ -120,6 +120,7 @@ public class MongoDBConnection implements DBConnection {
 		if (db == null) {
 			return;
 		}
+		//collection like table, document like row, getxxx() like column
 		FindIterable<Document> iterable = db.getCollection("items").find(eq("item_id", item.getItemId()));
 		if (iterable.first() == null) {
 			db.getCollection("items")
