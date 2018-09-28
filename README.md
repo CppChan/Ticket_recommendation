@@ -10,20 +10,20 @@ to implement event search and content-based ticket recommendation
 
 ## ticketmaster
 
-####Algorithm:
+#### Algorithm:
 * content based recommendation algorithm based on location of users
-####db:
+#### db:
 * database part( MySQL and Mongo DB)
-####entity:
+#### entity:
 * class of envent/ticket
-####external:
+#### external:
 * implementation of TicketMaseter API and its related GeoHash Function
-####offline:
+#### offline:
 * Processed logs with MapReduce in MongoDB to find peak periods
-####rpc:
+#### rpc:
 * Java serlvet for different kinds of requests
 
-####Webcontent:
+#### Webcontent:
 * Front end part of the project including JS, CSS, HTML
 
 ## Server
